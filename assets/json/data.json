@@ -1,0 +1,44 @@
+
+  {
+    "Ogrenciler": [
+        {
+            "adiSoyadi":"büşra ordu",
+            "dogumYili":2001
+        },
+        {
+            "adiSoyadi":"Zehra Ecer",
+            "dogumYili":1997
+        },
+        {
+            "adiSoyadi":"Berke Keskin",
+            "dogumYili":2000
+        },
+        {
+            "adiSoyadi":"ömer esim",
+            "dogumYili":2004
+        },
+        {
+            "adiSoyadi":"burak öz",
+            "dogumYili":2003
+        },
+        {
+            "adiSoyadi":"Serhat Koç",
+            "dogumYili":2004
+        }
+    ],
+    "egitmenler": [
+        {
+            "adiSoyadi":"furkan özay",
+            "yas":24
+        },
+        {
+            "adiSoyadi":"begüm ırcı",
+            "yas":25
+        },
+        {
+            "adiSoyadi":"orhan keskin",
+            "yas":34
+        }
+    ]
+
+  }
